@@ -1,0 +1,7 @@
+.todo__container{
+    width: 500px;
+    margin:50px auto;
+}
+.checkedText{
+    text-decoration: line-through;
+}
